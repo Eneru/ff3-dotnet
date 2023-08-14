@@ -1,6 +1,6 @@
 # ff3-dotnet
 
-![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/Eneru/ff3-dotnet/main.yml) 
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/Eneru/ff3-dotnet/dotnet.yml) 
 ![GitHub tag (with filter)](https://img.shields.io/github/v/tag/Eneru/ff3-dotnet)
 ![GitHub](https://img.shields.io/github/license/Eneru/ff3-dotnet)
 ![Codecov branch](https://img.shields.io/codecov/c/gh/Eneru/ff3-dotnet/main)
