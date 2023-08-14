@@ -50,5 +50,5 @@ To run tests, run the following command
 
 ## Appendix
 
-[Link to the original publication from the NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-38Gr1-draft.pdf)
+[Link to the original publication from the NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-38Gr1-draft.pdf)  
 [Link to the examples](https://csrc.nist.gov/CSRC/media/Projects/Cryptographic-Standards-and-Guidelines/documents/examples/FF3samples.pdf)
